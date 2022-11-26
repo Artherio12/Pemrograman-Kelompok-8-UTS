@@ -1,0 +1,84 @@
+E:\Beneran UTS\nyoba1\nyoba1\bin\Debug\nyoba1.exe.config
+E:\Beneran UTS\nyoba1\nyoba1\bin\Debug\nyoba1.exe
+E:\Beneran UTS\nyoba1\nyoba1\bin\Debug\nyoba1.pdb
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.csproj.AssemblyReference.cache
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.csproj.SuggestedBindingRedirects.cache
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman1.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman2.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\MainWindow.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\App.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1_MarkupCompile.cache
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1_MarkupCompile.lref
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman1.baml
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman2.baml
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\MainWindow.baml
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.g.resources
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.Properties.Resources.resources
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.csproj.GenerateResource.cache
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.csproj.CoreCompileInputs.cache
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.exe
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\nyoba1.pdb
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman3.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman3.baml
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman4.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman5.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman4.baml
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\halaman5.baml
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\Login.g.cs
+E:\Beneran UTS\nyoba1\nyoba1\obj\Debug\Login.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\bin\Debug\nyoba1.exe.config
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\bin\Debug\nyoba1.exe
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\bin\Debug\nyoba1.pdb
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.csproj.AssemblyReference.cache
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.csproj.SuggestedBindingRedirects.cache
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman1.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman2.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman3.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman4.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman5.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\Login.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\MainWindow.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\App.g.cs
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1_MarkupCompile.cache
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1_MarkupCompile.lref
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman1.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman2.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman3.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman4.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\halaman5.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\Login.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\MainWindow.baml
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.g.resources
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.Properties.Resources.resources
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.csproj.GenerateResource.cache
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.csproj.CoreCompileInputs.cache
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.exe
+E:\Beneran UTS\Kelopok8_UTS III\nyoba1\obj\Debug\nyoba1.pdb
+E:\bUAT uJI cOBA\nyoba1\bin\Debug\nyoba1.exe.config
+E:\bUAT uJI cOBA\nyoba1\bin\Debug\nyoba1.exe
+E:\bUAT uJI cOBA\nyoba1\bin\Debug\nyoba1.pdb
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.csproj.AssemblyReference.cache
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.csproj.SuggestedBindingRedirects.cache
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman1.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman2.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman3.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman4.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman5.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\Login.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\MainWindow.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\App.g.cs
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1_MarkupCompile.cache
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1_MarkupCompile.lref
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman1.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman2.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman3.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman4.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\halaman5.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\Login.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\MainWindow.baml
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.g.resources
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.Properties.Resources.resources
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.csproj.GenerateResource.cache
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.csproj.CoreCompileInputs.cache
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.exe
+E:\bUAT uJI cOBA\nyoba1\obj\Debug\nyoba1.pdb
